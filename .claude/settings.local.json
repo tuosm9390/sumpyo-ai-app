@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(node -v && npm -v 2>&1)",
+      "Bash(npx expo:*)",
+      "Bash(npx expo-doctor:*)",
+      "Bash(npx tsc:*)",
+      "Bash(cd \"C:\\\\Users\\\\tuosm\\\\.gemini\\\\antigravity\\\\scratch\\\\sumpyo-ai-app\" && node -e \"console.log\\(require\\('./node_modules/react-native-web/package.json'\\).version\\)\")"
+    ]
+  }
+}
